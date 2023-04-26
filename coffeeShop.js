@@ -1,6 +1,5 @@
 const readline = require("readline");
 var clc = require("cli-color");
-// const { log } = require("console");
 
 const { stdin: input, stdout: output } = require("process");
 
